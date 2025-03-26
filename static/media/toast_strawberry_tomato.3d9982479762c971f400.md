@@ -24,7 +24,7 @@
 
 ## Serving
 1. Toast the bread slices
-2. Spread the Pur´ee
+2. Spread the Purée
 3. Add the topping
 4. Sprinkle some spring onions slices
 5. Sprinkle with lemon juice
