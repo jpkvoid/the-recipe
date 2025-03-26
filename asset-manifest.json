@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/the-recipe/static/css/main.3325a425.css",
+    "main.js": "/the-recipe/static/js/main.3d167f9d.js",
+    "static/js/592.488d9848.chunk.js": "/the-recipe/static/js/592.488d9848.chunk.js",
+    "static/media/chicken_stew.md": "/the-recipe/static/media/chicken_stew.774c54859f437debf217.md",
+    "static/media/ragu.md": "/the-recipe/static/media/ragu.7afb4e9dab21fd6be68f.md",
+    "static/media/tavce_gravce.md": "/the-recipe/static/media/tavce_gravce.695f75eaf4c7564d6602.md",
+    "static/media/pizza_spinach_lemon.md": "/the-recipe/static/media/pizza_spinach_lemon.ac30bad5c2023d0c84e5.md",
+    "index.html": "/the-recipe/index.html",
+    "static/media/gnocchi.md": "/the-recipe/static/media/gnocchi.ede4383caa82a3817893.md",
+    "static/media/toast_strawberry_tomato.md": "/the-recipe/static/media/toast_strawberry_tomato.bc9571b423e20f7ac666.md",
+    "static/media/uova_purgatorio.md": "/the-recipe/static/media/uova_purgatorio.f16391ec0016e904e547.md",
+    "static/media/pesto.md": "/the-recipe/static/media/pesto.21b90afab58e02fe3a33.md",
+    "static/media/carbonara.md": "/the-recipe/static/media/carbonara.3f02f97b3c5613de9df2.md",
+    "static/media/onion_soup.md": "/the-recipe/static/media/onion_soup.fc694872fd12e4a59d90.md",
+    "static/media/tabouleh.md": "/the-recipe/static/media/tabouleh.d809c8ad6ded67a46ea9.md",
+    "static/media/beef_teriyaki.md": "/the-recipe/static/media/beef_teriyaki.bb80c73ab0156151b76e.md",
+    "static/media/bruschetta.md": "/the-recipe/static/media/bruschetta.70b368661f7ccd8e1353.md",
+    "static/media/food_waste.md": "/the-recipe/static/media/food_waste.81900dbd9024226e66d7.md",
+    "static/media/food_prep.md": "/the-recipe/static/media/food_prep.192e3e4b30fbc0ba94e7.md",
+    "main.3325a425.css.map": "/the-recipe/static/css/main.3325a425.css.map",
+    "main.3d167f9d.js.map": "/the-recipe/static/js/main.3d167f9d.js.map",
+    "592.488d9848.chunk.js.map": "/the-recipe/static/js/592.488d9848.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3325a425.css",
+    "static/js/main.3d167f9d.js"
+  ]
+}
