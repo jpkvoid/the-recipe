@@ -1,4 +1,4 @@
-# Steamed Bun
+# Steamed Bun / Bao Bun
 
 #bread #breakfast #lunch #dinner 
 
@@ -28,3 +28,5 @@ the dough doubled in size
 - Remove steamer from steam, but don’t open, let rest for 10 minutes
 - Add vegetables
 - Add protein, like tofu or beef teriyaki
+
+After steaming, the buns can be kept in the freezer. Just steam again for next time.
