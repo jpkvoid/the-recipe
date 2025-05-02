@@ -1,6 +1,6 @@
 # Tip: Food Prep
 
-#tips #foodprp
+#tips #foodprep
 
 ## Lemon
 Push on the lemon while rolling it all around to squeeze it inside.

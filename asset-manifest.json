@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/the-recipe/static/css/main.88025627.css",
-    "main.js": "/the-recipe/static/js/main.34324222.js",
+    "main.css": "/the-recipe/static/css/main.d4ccd923.css",
+    "main.js": "/the-recipe/static/js/main.8333b02f.js",
     "static/js/592.488d9848.chunk.js": "/the-recipe/static/js/592.488d9848.chunk.js",
     "static/media/chicken_stew.md": "/the-recipe/static/media/chicken_stew.774c54859f437debf217.md",
     "static/media/ragu.md": "/the-recipe/static/media/ragu.7afb4e9dab21fd6be68f.md",
@@ -19,13 +19,13 @@
     "static/media/beef_teriyaki.md": "/the-recipe/static/media/beef_teriyaki.bb80c73ab0156151b76e.md",
     "static/media/bruschetta.md": "/the-recipe/static/media/bruschetta.70b368661f7ccd8e1353.md",
     "static/media/food_waste.md": "/the-recipe/static/media/food_waste.81900dbd9024226e66d7.md",
-    "static/media/food_prep.md": "/the-recipe/static/media/food_prep.192e3e4b30fbc0ba94e7.md",
-    "main.88025627.css.map": "/the-recipe/static/css/main.88025627.css.map",
-    "main.34324222.js.map": "/the-recipe/static/js/main.34324222.js.map",
+    "static/media/food_prep.md": "/the-recipe/static/media/food_prep.d87daa0ee322e32c1786.md",
+    "main.d4ccd923.css.map": "/the-recipe/static/css/main.d4ccd923.css.map",
+    "main.8333b02f.js.map": "/the-recipe/static/js/main.8333b02f.js.map",
     "592.488d9848.chunk.js.map": "/the-recipe/static/js/592.488d9848.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.88025627.css",
-    "static/js/main.34324222.js"
+    "static/css/main.d4ccd923.css",
+    "static/js/main.8333b02f.js"
   ]
 }
