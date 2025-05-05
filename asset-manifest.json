@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/the-recipe/static/css/main.d4ccd923.css",
-    "main.js": "/the-recipe/static/js/main.42e3c743.js",
+    "main.js": "/the-recipe/static/js/main.c59047f1.js",
     "static/js/592.488d9848.chunk.js": "/the-recipe/static/js/592.488d9848.chunk.js",
+    "static/media/mersu.md": "/the-recipe/static/media/mersu.1a3b5aec4ee098c61321.md",
     "static/media/steamed_bun.md": "/the-recipe/static/media/steamed_bun.98db62717ab6d0033dd4.md",
     "static/media/chicken_stew.md": "/the-recipe/static/media/chicken_stew.774c54859f437debf217.md",
     "static/media/ragu.md": "/the-recipe/static/media/ragu.7afb4e9dab21fd6be68f.md",
@@ -22,11 +23,11 @@
     "static/media/food_waste.md": "/the-recipe/static/media/food_waste.81900dbd9024226e66d7.md",
     "static/media/food_prep.md": "/the-recipe/static/media/food_prep.d87daa0ee322e32c1786.md",
     "main.d4ccd923.css.map": "/the-recipe/static/css/main.d4ccd923.css.map",
-    "main.42e3c743.js.map": "/the-recipe/static/js/main.42e3c743.js.map",
+    "main.c59047f1.js.map": "/the-recipe/static/js/main.c59047f1.js.map",
     "592.488d9848.chunk.js.map": "/the-recipe/static/js/592.488d9848.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4ccd923.css",
-    "static/js/main.42e3c743.js"
+    "static/js/main.c59047f1.js"
   ]
 }
