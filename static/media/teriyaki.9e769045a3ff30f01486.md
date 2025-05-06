@@ -1,6 +1,6 @@
 # Teriyaki Tofu/Tempeh/Beef
 
-#lunch #dinner #japanese #pokebowl #noodles #baobun
+#lunch #dinner #japanese #pokebowl #noodles #baobun #vegetarian #vegan
 
 ## Ingredients
 - Teriyaki Sauce
