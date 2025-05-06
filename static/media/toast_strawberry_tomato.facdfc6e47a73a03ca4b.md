@@ -1,6 +1,6 @@
-# Strawberry and Cherry Tomato Toast with Green Pea-Mint Purée
+# Strawberry, Tomato, Mint, Green Pea Toast
 
-#brunch #lunch #toast #breakfast #vegetarian #vegan
+#brunch #vegetarian #vegan
 
 ## Ingredients
 - Cherry Tomatoes

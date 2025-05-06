@@ -1,6 +1,6 @@
 # Hummus
 
-#dip #mezze #levantine #lebanese #mortar #lunch #brunch
+#dip #mezze #lebanese #mortar #brunch
 
 ## Ingredients
 - Chick Peas

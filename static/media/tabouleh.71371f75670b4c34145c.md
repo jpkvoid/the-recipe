@@ -1,6 +1,6 @@
 # Tabouleh
 
-#lunch #dinner #mezze #salad #lebanese #levantine #vegetarian #vegan
+#lunch #dinner #mezze #salad #lebanese #vegetarian #vegan
 
 ## Ingredients
 - Curly Parsley

@@ -1,6 +1,6 @@
 # Uova in Purgatorio
 
-#breakfast #vegetarian #lunch #dinner #italian
+#brunch #vegetarian #dinner #italian
 ## Ingredients
 - Eggs
 - Peeled Tomatoes

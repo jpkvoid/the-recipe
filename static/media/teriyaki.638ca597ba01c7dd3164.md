@@ -1,4 +1,4 @@
-# Teriyaki Tofu / Tempeh / Beef
+# Teriyaki Tofu/Tempeh/Beef
 
 #lunch #dinner #japanese #pokebowl #noodles #baobun
 

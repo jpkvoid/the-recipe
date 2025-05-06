@@ -1,6 +1,6 @@
 # Pesto
 
-#pasta #dip #mortar #vegetarian #breakfast #dinner #lunch
+#pasta #dip #mortar #vegetarian #brunch #dinner #italian
 
 ## Ingredients
 original / *cheaper substitute*

@@ -1,6 +1,6 @@
 # Bruschetta
 
-#breakfast #lunch #starter #italian #vegetarian #vegan
+#brunch #starter #italian #vegetarian #vegan
 
 ## Ingredients
 -  Tomatoes
