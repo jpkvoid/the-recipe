@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/the-recipe/static/css/main.1e71c677.css",
-    "main.js": "/the-recipe/static/js/main.d996bd0f.js",
+    "main.js": "/the-recipe/static/js/main.dac4a8e1.js",
     "static/js/592.488d9848.chunk.js": "/the-recipe/static/js/592.488d9848.chunk.js",
     "static/media/mersu.md": "/the-recipe/static/media/mersu.1a3b5aec4ee098c61321.md",
     "static/media/steamed_bun.md": "/the-recipe/static/media/steamed_bun.a72c69a0958cb2e9b4e8.md",
@@ -19,15 +19,16 @@
     "static/media/hummus.md": "/the-recipe/static/media/hummus.32d433d5e0a5e068b548.md",
     "static/media/onion_soup.md": "/the-recipe/static/media/onion_soup.fc694872fd12e4a59d90.md",
     "static/media/tabouleh.md": "/the-recipe/static/media/tabouleh.71371f75670b4c34145c.md",
+    "static/media/vegetarian_tartare.md": "/the-recipe/static/media/vegetarian_tartare.3b35b27f1b68537be7c7.md",
     "static/media/bruschetta.md": "/the-recipe/static/media/bruschetta.610b80672d35df70f3c1.md",
     "static/media/food_waste.md": "/the-recipe/static/media/food_waste.81900dbd9024226e66d7.md",
     "static/media/food_prep.md": "/the-recipe/static/media/food_prep.d87daa0ee322e32c1786.md",
     "main.1e71c677.css.map": "/the-recipe/static/css/main.1e71c677.css.map",
-    "main.d996bd0f.js.map": "/the-recipe/static/js/main.d996bd0f.js.map",
+    "main.dac4a8e1.js.map": "/the-recipe/static/js/main.dac4a8e1.js.map",
     "592.488d9848.chunk.js.map": "/the-recipe/static/js/592.488d9848.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e71c677.css",
-    "static/js/main.d996bd0f.js"
+    "static/js/main.dac4a8e1.js"
   ]
 }
